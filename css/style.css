@@ -112,3 +112,10 @@ body{
     margin: .6rem;
     padding: .6rem;
 }
+
+#message-error{
+     height: 30px;
+     border-top: 1px solid #fff;
+     margin-top: 1.5rem;
+     padding-top: 1.5rem;
+}
